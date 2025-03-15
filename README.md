@@ -84,7 +84,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Prajyot Bhoskar
 - Soham Kathalay
 - Chinmay Anjankar
-- Gautam Jhat
+- Gautam Jha
 
 ---
 Enjoy your personalized song recommendations! 🎵
