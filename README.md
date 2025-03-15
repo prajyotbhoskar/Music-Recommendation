@@ -81,7 +81,10 @@ The system uses a **Random Forest model** trained on various song features:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contributors
-- [Your Name](https://github.com/pranit144)
+- Prajyot Bhoskar
+- Soham Kathalay
+- Chinmay Anjankar
+- Gautam Jhat
 
 ---
 Enjoy your personalized song recommendations! 🎵
